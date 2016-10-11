@@ -33,7 +33,7 @@
 
 ## Canais no Youtube
 
-- [Exemplo](https://exemplo)
+- [Ana Roxo](https://www.youtube.com/channel/UC103EEyV8RzaJjH7BjhsP-w/videos?view=0&shelf_id=0&sort=dd) - Não é assumidamente um canal de esquerda, mas tem boas reflexões a respeito e com uma pitada de sarcasmo e bom humor.
 
 ## Outros
 
