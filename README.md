@@ -17,7 +17,16 @@
 
 ## Livros
 
-- [Exemplo](https://exemplo)
+- [A esquerda que não teme dizer seu nome](https://www.amazon.com.br/dp/8565339041/ref=asc_df_85653390414569609/) O livro mostra qual o papel de quem é de esquerda no atual cenário político mundial e como encarar o atual contexto em que passamos, por Vladmin Safatle
+
+- [A ditadura da mídia](http://en.calameo.com/books/000532611a6672e5f180c) Livro importantíssimo para entender o poder da mídia nos rumos do país e América do Sul. Mostra como ela se tornou um grande partido político e sua capacidade influenciar todas as decisões políticas de um país, por Altamiro Borges.
+
+- [O manifesto do partido comunista](https://www.amazon.com.br/dp/8525411248/ref=asc_df_85254112484570147) A porta de entrada para quem se interessa e quer entender o mundo pela ótica da esquerda, por Marx e Engels.
+
+- [As Veias Abertas da América Latina](http://www.saraiva.com.br/as-veias-abertas-da-america-latina-3095353.html) O livro desmistifica o passado glorioso da exploração pedratória que ocorreu no Novo Mundo (abaixo do Ŕio Bravo) pelos europeus. Recomendo estômago para quem ainda não o leu, por Eduardo Galeano.
+
+- [O Povo Brasileiro](http://www.saraiva.com.br/o-povo-brasileiro-ed-de-bolso-201470.html) Uma visão progressista e humana da origem do Povo Brasileiro. Revela nosso passado, como chegamos até aqui e por que somos o que somos. Conteúdo esclarecedor e repleto de detalhes sórdidos, por Darcy Ribeiro.
+
 
 ## Documentários
 
