@@ -29,7 +29,24 @@
 
 ## Canais de Notícia
 
-- [Exemplo](https://exemplo) - Pequena Descrição
+- [Carta Maior](http://www.cartamaior.com.br) Auto-intitulado como um dos maiores portais de esquerda, com notícias e artigos de opinião, Entre os colaboradores do portal, nomes como os de Eduardo Galeano, Emir Sader, Leonardo Boff, Mauro Santayana, Gilberto Maringoni, Maria Inês Nassif, entre outros.
+
+- [Carta Capital](http://www.cartacapital.com.br/) - Alternativa ao pensamento único da imprensa brasileira e presente em todas as plataformas digitais, CartaCapital nasceu calçada no tripé do bom jornalismo, aquele baseado na fidelidade à verdade factual, no exercício do espírito crítico e na fiscalização do poder onde quer que se manifeste.
+
+- [Outras Palavras](http://www.outraspalavras.net) Em torno dele existe um grupo de colaboradores, uma rede social e uma série de oficinas para formação em jornalismo colaborativo
+
+- [Conversa Afiada](http://www.conversaafiada.com.br/) - Site do jornalista Paulo Henrique Amorim - opinião corrosiva contra o 'PIG' - Partido da Imprensa Golpista. 
+
+- [Vio Mundo](http://www.viomundo.com.br) - "O que você não vê na mídia". Progressista, fonte confiável, isento, crítico e equilibrado
+
+- [Escrevinhador](http://www.rodrigovianna.com.br) - Blog chamado 'O Escrevinhador', do jornalista Rodrigo Vianna. Excelente fonte de informação, crítico à grande imprensa e apoiador do campo progressista
+
+- [Jornal Brasil de Fato Online](http://www.brasildefato.com.br) - Um dos mais importantes veículos de comunicação de esquerda no Brasil. Seu lema: "Uma visão popular do Brasil e do Mundo".
+
+- [Rede Brasil Atual](http://www.redebrasilatual.com.br) - rede de comunicações dos trabalhadores, agência nacional de notícias e responsável pela Revista do Brasil. Conteúdo livre.
+
+- [Sakamoto](http://blogdosakamoto.blogosfera.uol.com.br/) - Blog do jornalista e doutor em Ciência Política Leonardo Sakamoto.
+
 
 ## Canais no Youtube
 
