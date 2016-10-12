@@ -27,6 +27,8 @@
 
 - [O Povo Brasileiro](http://www.saraiva.com.br/o-povo-brasileiro-ed-de-bolso-201470.html) Uma visão progressista e humana da origem do Povo Brasileiro. Revela nosso passado, como chegamos até aqui e por que somos o que somos. Conteúdo esclarecedor e repleto de detalhes sórdidos, por Darcy Ribeiro.
 
+- [Manifesto Autogestionário](http://2012.nildoviana.com/wp/wp-content/uploads/2012/09/Manifesto-Autogestionario-Nildo-Viana.pdf) Livro do sociólogo brasileiro Nildo Viana. O livro propõe-se como uma atualização do Manifesto Comunista de Marx e Engels, abordando a questão do conflito entre o "trabalho morto" e o "trabalho vivo" de uma perspectiva libertária a partir do princípio da autogestão.
+
 
 ## Documentários
 
@@ -34,7 +36,8 @@
 
 ## Filmes
 
-- [Exemplo](https://exemplo)
+- [Maio nosso Maio](https://vimeo.com/23105830) Curta metragem sobre a origem e o sentido histórico verdadeiro do Dia do Trabalhador. O filme de 12 minutos mostra como várias vertentes progressistas participaram de eventos em prol dos trabalhadores dando origem ao Dia do Trabalhador. Também fica claro o esforço patronal e governamental para remover do Primeiro de Maio seu sentido original de luta.
+
 
 ## Canais de Notícia
 
