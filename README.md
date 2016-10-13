@@ -30,7 +30,11 @@
 
 ## Documentários
 
-- [Exemplo](https://exemplo)
+- [Ilha das Flores (1989)](http://www.imdb.com/title/tt0097564/?ref_=tt_rec_tt) - The ironic, heartbreaking and acid "saga" of a spoiled tomato: from the plantation of a "Nisei" (Brazilian with Japanese origins); to a supermarket; to a consumer's kitchen to become sauce ...
+- [The Revolution Will Not Be Televised (2003)](http://www.imdb.com/title/tt0363510/?ref_=fn_al_tt_1) - In April 2002, an Irish film crew is making a documentary about Venezuelan President Hugo Chavez, when a coup from the opposition is made.
+- [The Shock Doctrine (2009)](http://www.imdb.com/title/tt1355640/?ref_=tt_rec_tt) - An investigation of "disaster capitalism", based on Naomi Klein's proposition that neo-liberal capitalism feeds on natural disasters, war and terror to establish its dominance. 
+- [Four Horsemen (2012)](http://www.imdb.com/title/tt1671513/)The modern day Four Horsemen continue to ride roughshod over the people who can least afford it. Crises are converging when governments, religion and mainstream economists have stalled. 23 ...
+- [The Internet's Own Boy: The Story of Aaron Swartz (2014)](http://www.imdb.com/title/tt3268458/) - The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26.
 
 ## Filmes
 
@@ -56,6 +60,10 @@
 
 - [Sakamoto](http://blogdosakamoto.blogosfera.uol.com.br/) - Blog do jornalista e doutor em Ciência Política Leonardo Sakamoto.
 
+- [Socialista Morena](http://www.socialistamorena.com.br/) - Este é um blog de ideias e notícias com viés esquerdista. Mas também de literatura, música, cinema, HQ, humor, viagens. Boas histórias, bons personagens. Boa comida. Alguma memória. E utopiapolitik.
+
+- [Não Me Kahlo](http://www.naomekahlo.com/) - Grupo de mulheres que resolveram formar um Coletivo Feminista
+
 
 ## Canais no Youtube
 
@@ -63,14 +71,14 @@
 - [Auditoria Cidadã da Dívida](https://www.youtube.com/user/auditoriadidada/videos)
 - [Outras Palavras](https://www.youtube.com/channel/UCXQR-5Obb1uAQthcWP3ejFA/featured) - Comunicação compartilhada e Pós-capitalismo
 - [Xadrez Verbal](https://www.youtube.com/user/xadrezverbal/featured) - Não é um canal de esquerda. Canal com vídeos próprios sobre História, política, atualidades e política internacional. Também é site e podcast.
-
-
+- [TvPTS El canal de la izquierda](https://www.youtube.com/user/ptsargentina/featured) - TVPTS el canal de la izquierda. Una iniciativa del Partido de Trabajadores Socialistas. (Argentina) 
 
 ## Outros
 
 - [Mamilos Podcast](https://soundcloud.com/mamilospod) - As polêmicas da semana discutidas com inteligência, empatia, tolerância e bom humor.
 - [AntiCast Podcast](https://soundcloud.com/anticastdesign) - Podcast sobre política, história, artes e qualquer outra forma de subversão.
 - [Salvo Melhor Juízo Podcast](https://soundcloud.com/salvo-melhor-ju-zo) - O seu podcast sobre direito é aqui. Até que se prove o contrário.
+- ["Marx ha Vuelto" [miniserie basada en El Manifiesto Comunista] ](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X)
 
 ## Licença
 
