@@ -63,11 +63,9 @@
 
 ## Outros
 
-- [Mamilos Podcast](https://soundcloud.com/mamilospod)
-- [AntiCast Podcast](https://soundcloud.com/anticastdesign)
-- [Salvo Melhor Juízo Podcast](https://soundcloud.com/salvo-melhor-ju-zo)
-
-
+- [Mamilos Podcast](https://soundcloud.com/mamilospod) - As polêmicas da semana discutidas com inteligência, empatia, tolerância e bom humor.
+- [AntiCast Podcast](https://soundcloud.com/anticastdesign) - Podcast sobre política, história, artes e qualquer outra forma de subversão.
+- [Salvo Melhor Juízo Podcast](https://soundcloud.com/salvo-melhor-ju-zo) - O seu podcast sobre direito é aqui. Até que se prove o contrário.
 
 ## Licença
 
