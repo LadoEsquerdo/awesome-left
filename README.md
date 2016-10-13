@@ -84,6 +84,7 @@
 - [Salvo Melhor Juízo Podcast](https://soundcloud.com/salvo-melhor-ju-zo) - O seu podcast sobre direito é aqui. Até que se prove o contrário.
 - ["Marx ha Vuelto"](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X) - Minissérie baseada no Manifesto Comunista.
 - [Anatomia de uma fraude à Constituição](http://www.cic.unb.br/~rezende/trabs/fraudeac.html) - Este artigo registra uma investigação, e sua publicação visa a dois objetivos: o de preencher uma lacuna na história do Brasil, e o de evidenciar a importância da retenção de documentos de valor histórico ou jurídico em registro material, de forma a permitir, a qualquer um, formar juízo sobre sua autenticidade por meios próprios. A investigação revela como foi inserido na Constituição Federal, de forma ilegal e solerte, dispositivo que acarreta danos cada vez mais pesados à economia e à sociedade brasileiras.
+- [Story of Stuff](http://storyofstuff.org) - "The Story of Stuff Project’s journey began with a [20-minute online movie](http://storyofstuff.org/movies/story-of-stuff/) about the way we make, use and throw away all the Stuff in our lives. Five years and 40 million views later, we’re a Community of more than a million changemakers worldwide, working to build a more healthy and just planet. We invite you to watch and share our movies, participate in our study programs and join our campaigns. Come on, let’s go!"
 
 ## Licença
 
