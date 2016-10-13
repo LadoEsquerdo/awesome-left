@@ -33,7 +33,8 @@
 - [Ilha das Flores (1989)](http://www.imdb.com/title/tt0097564/?ref_=tt_rec_tt) - The ironic, heartbreaking and acid "saga" of a spoiled tomato: from the plantation of a "Nisei" (Brazilian with Japanese origins); to a supermarket; to a consumer's kitchen to become sauce ...
 - [The Revolution Will Not Be Televised (2003)](http://www.imdb.com/title/tt0363510/?ref_=fn_al_tt_1) - In April 2002, an Irish film crew is making a documentary about Venezuelan President Hugo Chavez, when a coup from the opposition is made.
 - [The Shock Doctrine (2009)](http://www.imdb.com/title/tt1355640/?ref_=tt_rec_tt) - An investigation of "disaster capitalism", based on Naomi Klein's proposition that neo-liberal capitalism feeds on natural disasters, war and terror to establish its dominance. 
-- [Four Horsemen (2012)](http://www.imdb.com/title/tt1671513/)The modern day Four Horsemen continue to ride roughshod over the people who can least afford it. Crises are converging when governments, religion and mainstream economists have stalled. 23 ...
+- [Four Horsemen (2012)](http://www.imdb.com/title/tt1671513/) - The modern day Four Horsemen continue to ride roughshod over the people who can least afford it. Crises are converging when governments, religion and mainstream economists have stalled. 23 ...
+- [The Pervert's Guide to Ideology (2012)](http://www.imdb.com/title/tt2152198/) - Philosopher Slavoj Zizek examines the hidden themes and existential questions asked by world renowned films.
 - [The Internet's Own Boy: The Story of Aaron Swartz (2014)](http://www.imdb.com/title/tt3268458/) - The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26.
 
 ## Filmes
