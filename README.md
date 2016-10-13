@@ -29,9 +29,11 @@
 
 ## Documentários
 
-- [Ilha das Flores (1989)](http://www.imdb.com/title/tt0097564/?ref_=tt_rec_tt) - The ironic, heartbreaking and acid "saga" of a spoiled tomato: from the plantation of a "Nisei" (Brazilian with Japanese origins); to a supermarket; to a consumer's kitchen to become sauce ...
-- [The Revolution Will Not Be Televised (2003)](http://www.imdb.com/title/tt0363510/?ref_=fn_al_tt_1) - In April 2002, an Irish film crew is making a documentary about Venezuelan President Hugo Chavez, when a coup from the opposition is made.
-- [The Shock Doctrine (2009)](http://www.imdb.com/title/tt1355640/?ref_=tt_rec_tt) - An investigation of "disaster capitalism", based on Naomi Klein's proposition that neo-liberal capitalism feeds on natural disasters, war and terror to establish its dominance. 
+- [La batalla de Chile: La lucha de un pueblo sin armas - Primera parte: La insurreción de la burguesía (1975)](http://www.imdb.com/title/tt0072685/) - The chronicle of the political tension in Chile in 1973 and of the violent counter revolution against the democratically elected government of Salvador Allende.
+- [Ilha das Flores (1989)](http://www.imdb.com/title/tt0097564/) - The ironic, heartbreaking and acid "saga" of a spoiled tomato: from the plantation of a "Nisei" (Brazilian with Japanese origins); to a supermarket; to a consumer's kitchen to become sauce ...
+- [The Revolution Will Not Be Televised (2003)](http://www.imdb.com/title/tt0363510/) - In April 2002, an Irish film crew is making a documentary about Venezuelan President Hugo Chavez, when a coup from the opposition is made.
+- [The Shock Doctrine (2009)](http://www.imdb.com/title/tt1355640/) - An investigation of "disaster capitalism", based on Naomi Klein's proposition that neo-liberal capitalism feeds on natural disasters, war and terror to establish its dominance.
+- [Inside Job (2010)](http://www.imdb.com/title/tt1645089/) -  Takes a closer look at what brought about the 2008 financial meltdown.
 - [Four Horsemen (2012)](http://www.imdb.com/title/tt1671513/) - The modern day Four Horsemen continue to ride roughshod over the people who can least afford it. Crises are converging when governments, religion and mainstream economists have stalled. 23 ...
 - [The Pervert's Guide to Ideology (2012)](http://www.imdb.com/title/tt2152198/) - Philosopher Slavoj Zizek examines the hidden themes and existential questions asked by world renowned films.
 - [The Internet's Own Boy: The Story of Aaron Swartz (2014)](http://www.imdb.com/title/tt3268458/) - The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26.
