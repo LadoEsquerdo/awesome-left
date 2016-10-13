@@ -63,7 +63,9 @@
 
 ## Outros
 
-- [Exemplo](https://exemplo)
+- [Mamilos Podcast](https://soundcloud.com/mamilospod)
+- [AntiCast Podcast](https://soundcloud.com/anticastdesign)
+- [Salvo Melhor Juízo Podcast](https://soundcloud.com/salvo-melhor-ju-zo)
 
 
 
