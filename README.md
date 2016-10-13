@@ -1,3 +1,5 @@
+[![Programador Progressista](https://img.shields.io/badge/programador-progressista-red.svg?style=flat-square)]()
+
 > Lista de Conteúdos políticos de esquerda
 
 ## Sumário
