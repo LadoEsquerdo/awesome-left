@@ -1,4 +1,4 @@
-[![Programador Progressista](https://img.shields.io/badge/programador-progressista-red.svg?style=flat-square)]()
+[![Programador Progressista](https://img.shields.io/badge/programador-progressista-red.svg?style=flat-square)](https://github.com/LadoEsquerdo/awesome-left)
 
 > Lista de Conteúdos políticos de esquerda
 
