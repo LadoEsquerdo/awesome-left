@@ -31,6 +31,7 @@
 
 - [La batalla de Chile: La lucha de un pueblo sin armas - Primera parte: La insurreción de la burguesía (1975)](http://www.imdb.com/title/tt0072685/) - The chronicle of the political tension in Chile in 1973 and of the violent counter revolution against the democratically elected government of Salvador Allende.
 - [Ilha das Flores (1989)](http://www.imdb.com/title/tt0097564/) - The ironic, heartbreaking and acid "saga" of a spoiled tomato: from the plantation of a "Nisei" (Brazilian with Japanese origins); to a supermarket; to a consumer's kitchen to become sauce ...
+- [Beyond Citizen Kane (1993)](http://www.imdb.com/title/tt1356393/) - The influence of Rede Globo,a TV network, on a whole country. 
 - [The Revolution Will Not Be Televised (2003)](http://www.imdb.com/title/tt0363510/) - In April 2002, an Irish film crew is making a documentary about Venezuelan President Hugo Chavez, when a coup from the opposition is made.
 - [The Shock Doctrine (2009)](http://www.imdb.com/title/tt1355640/) - An investigation of "disaster capitalism", based on Naomi Klein's proposition that neo-liberal capitalism feeds on natural disasters, war and terror to establish its dominance.
 - [Inside Job (2010)](http://www.imdb.com/title/tt1645089/) -  Takes a closer look at what brought about the 2008 financial meltdown.
