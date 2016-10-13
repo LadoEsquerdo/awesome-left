@@ -43,11 +43,11 @@
 
 ## Canais de Notícia
 
-- [Carta Maior](http://www.cartamaior.com.br) Auto-intitulado como um dos maiores portais de esquerda, com notícias e artigos de opinião, Entre os colaboradores do portal, nomes como os de Eduardo Galeano, Emir Sader, Leonardo Boff, Mauro Santayana, Gilberto Maringoni, Maria Inês Nassif, entre outros.
+- [Carta Maior](http://www.cartamaior.com.br) - Auto-intitulado como um dos maiores portais de esquerda, com notícias e artigos de opinião, Entre os colaboradores do portal, nomes como os de Eduardo Galeano, Emir Sader, Leonardo Boff, Mauro Santayana, Gilberto Maringoni, Maria Inês Nassif, entre outros.
 
 - [Carta Capital](http://www.cartacapital.com.br/) - Alternativa ao pensamento único da imprensa brasileira e presente em todas as plataformas digitais, CartaCapital nasceu calçada no tripé do bom jornalismo, aquele baseado na fidelidade à verdade factual, no exercício do espírito crítico e na fiscalização do poder onde quer que se manifeste.
 
-- [Outras Palavras](http://www.outraspalavras.net) Em torno dele existe um grupo de colaboradores, uma rede social e uma série de oficinas para formação em jornalismo colaborativo
+- [Outras Palavras](http://www.outraspalavras.net) - Em torno dele existe um grupo de colaboradores, uma rede social e uma série de oficinas para formação em jornalismo colaborativo
 
 - [Conversa Afiada](http://www.conversaafiada.com.br/) - Site do jornalista Paulo Henrique Amorim - opinião corrosiva contra o 'PIG' - Partido da Imprensa Golpista. 
 
@@ -57,13 +57,15 @@
 
 - [Jornal Brasil de Fato Online](http://www.brasildefato.com.br) - Um dos mais importantes veículos de comunicação de esquerda no Brasil. Seu lema: "Uma visão popular do Brasil e do Mundo".
 
-- [Rede Brasil Atual](http://www.redebrasilatual.com.br) - rede de comunicações dos trabalhadores, agência nacional de notícias e responsável pela Revista do Brasil. Conteúdo livre.
+- [Rede Brasil Atual](http://www.redebrasilatual.com.br) - Rede de comunicações dos trabalhadores, agência nacional de notícias e responsável pela Revista do Brasil. Conteúdo livre.
 
 - [Sakamoto](http://blogdosakamoto.blogosfera.uol.com.br/) - Blog do jornalista e doutor em Ciência Política Leonardo Sakamoto.
 
 - [Socialista Morena](http://www.socialistamorena.com.br/) - Este é um blog de ideias e notícias com viés esquerdista. Mas também de literatura, música, cinema, HQ, humor, viagens. Boas histórias, bons personagens. Boa comida. Alguma memória. E utopiapolitik.
 
-- [Não Me Kahlo](http://www.naomekahlo.com/) - Grupo de mulheres que resolveram formar um Coletivo Feminista
+- [Não Me Kahlo](http://www.naomekahlo.com/) - Grupo de mulheres que resolveram formar um Coletivo Feminista.
+
+- [The Intercept_Brasil](https://theintercept.com/brasil/) - O The Intercept foi lançado em 2014 por Glenn Greenwald, Laura Poitras e Jeremy Scahill com o objetivo de produzir um jornalismo destemido e combativo. Acreditamos que o jornalismo deve promover transparência, responsabilizando instituições governamentais e corporativas. Portanto, nossos jornalistas contam com a liberdade editorial e o suporte jurídico necessários para desempenhar tal missão.
 
 
 ## Canais no Youtube
