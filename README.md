@@ -27,7 +27,6 @@
 
 - [O Povo Brasileiro](http://www.saraiva.com.br/o-povo-brasileiro-ed-de-bolso-201470.html) Uma visão progressista e humana da origem do Povo Brasileiro. Revela nosso passado, como chegamos até aqui e por que somos o que somos. Conteúdo esclarecedor e repleto de detalhes sórdidos, por Darcy Ribeiro.
 
-
 ## Documentários
 
 - [Ilha das Flores (1989)](http://www.imdb.com/title/tt0097564/?ref_=tt_rec_tt) - The ironic, heartbreaking and acid "saga" of a spoiled tomato: from the plantation of a "Nisei" (Brazilian with Japanese origins); to a supermarket; to a consumer's kitchen to become sauce ...
@@ -67,7 +66,6 @@
 
 - [The Intercept_Brasil](https://theintercept.com/brasil/) - O The Intercept foi lançado em 2014 por Glenn Greenwald, Laura Poitras e Jeremy Scahill com o objetivo de produzir um jornalismo destemido e combativo. Acreditamos que o jornalismo deve promover transparência, responsabilizando instituições governamentais e corporativas. Portanto, nossos jornalistas contam com a liberdade editorial e o suporte jurídico necessários para desempenhar tal missão.
 
-
 ## Canais no Youtube
 
 - [Ana Roxo](https://www.youtube.com/channel/UC103EEyV8RzaJjH7BjhsP-w/videos?view=0&shelf_id=0&sort=dd) - Não é assumidamente um canal de esquerda, mas tem boas reflexões a respeito e com uma pitada de sarcasmo e bom humor.
@@ -81,7 +79,8 @@
 - [Mamilos Podcast](https://soundcloud.com/mamilospod) - As polêmicas da semana discutidas com inteligência, empatia, tolerância e bom humor.
 - [AntiCast Podcast](https://soundcloud.com/anticastdesign) - Podcast sobre política, história, artes e qualquer outra forma de subversão.
 - [Salvo Melhor Juízo Podcast](https://soundcloud.com/salvo-melhor-ju-zo) - O seu podcast sobre direito é aqui. Até que se prove o contrário.
-- ["Marx ha Vuelto" [miniserie basada en El Manifiesto Comunista] ](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X)
+- ["Marx ha Vuelto"](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X) - Minissérie baseada no Manifesto Comunista.
+- [Anatomia de uma fraude à Constituição](http://www.cic.unb.br/~rezende/trabs/fraudeac.html) - Este artigo registra uma investigação, e sua publicação visa a dois objetivos: o de preencher uma lacuna na história do Brasil, e o de evidenciar a importância da retenção de documentos de valor histórico ou jurídico em registro material, de forma a permitir, a qualquer um, formar juízo sobre sua autenticidade por meios próprios. A investigação revela como foi inserido na Constituição Federal, de forma ilegal e solerte, dispositivo que acarreta danos cada vez mais pesados à economia e à sociedade brasileiras.
 
 ## Licença
 
