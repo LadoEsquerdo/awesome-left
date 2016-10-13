@@ -60,6 +60,11 @@
 ## Canais no Youtube
 
 - [Ana Roxo](https://www.youtube.com/channel/UC103EEyV8RzaJjH7BjhsP-w/videos?view=0&shelf_id=0&sort=dd) - Não é assumidamente um canal de esquerda, mas tem boas reflexões a respeito e com uma pitada de sarcasmo e bom humor.
+- [Auditoria Cidadã da Dívida](https://www.youtube.com/user/auditoriadidada/videos)
+- [Outras Palavras](https://www.youtube.com/channel/UCXQR-5Obb1uAQthcWP3ejFA/featured) - Comunicação compartilhada e Pós-capitalismo
+- [Xadrez Verbal](https://www.youtube.com/user/xadrezverbal/featured) - Não é um canal de esquerda. Canal com vídeos próprios sobre História, política, atualidades e política internacional. Também é site e podcast.
+
+
 
 ## Outros
 
