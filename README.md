@@ -55,6 +55,7 @@
 - [Best of Enemies (2015)](http://www.imdb.com/title/tt3518012/) - A documentary on the series of televised debates in 1968 between liberal Gore Vidal and conservative William F. Buckley.
 - [The Brainwashing of My Dad (2015)](www.thebrainwashingofmydad.com) - A filmmaker examines the rise of right-wing media through the lens of her father, whose immersion in it radicalized him and rocked the foundation of their family. She discovers this political phenomenon recurring in living rooms everywhere, and reveals the consequences conservative media has had on families and a nation.
 - [Em Busca da Verdade (2015)](https://youtu.be/BUiFjNBP77Y) - Documentário vencedor do Prêmio Vladimir Herzog apresenta as principais investigações da Comissão Nacional e das Comissões Estaduais da Verdade sobre as graves violações de direitos humanos ocorridas na ditadura de 1964.
+- [Libertar - Relatos de Guaribanas do Bolsa Família (2016)](https://youtu.be/RTSXuuSeNV0) - No início dos anos 2000, a cidade de Guaribas, no Piauí, apresentava um dos menores índices de IDH do país. Em 2003, foi a cidade que deu início ao Bolsa Família. Em um documentário de cerca de 27 minutos, mulheres beneficiadas pelo programa esclarecem a necessidade e as melhorias que o benefício proporcionou para suas vidas e suas famílias, garantindo mínimas condições de alimentação e estrutura financeira para os estudos de seus filhos.
 
 ## Filmes
 
