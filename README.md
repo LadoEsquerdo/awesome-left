@@ -32,14 +32,24 @@
 ## Documentários
 
 - [La batalla de Chile: La lucha de un pueblo sin armas - Primera parte: La insurreción de la burguesía (1975)](http://www.imdb.com/title/tt0072685/) - The chronicle of the political tension in Chile in 1973 and of the violent counter revolution against the democratically elected government of Salvador Allende.
-- [Ilha das Flores (1989)](http://www.imdb.com/title/tt0097564/) - The ironic, heartbreaking and acid "saga" of a spoiled tomato: from the plantation of a "Nisei" (Brazilian with Japanese origins); to a supermarket; to a consumer's kitchen to become sauce ...
-- [Beyond Citizen Kane (1993)](http://www.imdb.com/title/tt1356393/) - The influence of Rede Globo,a TV network, on a whole country. 
+- [Anarchism in America (1983)](http://www.imdb.com/title/tt0186820/) - Documentário que conta com entrevistas de diversos anarquistas americanos, como Murray Bookchin. Analisa as influências de Emma Goldman e da Revolução Espanhola no anarquismo norte-americano.
+- [Ilha das Flores (1989)](http://www.imdb.com/title/tt0097564/) - The ironic, heartbreaking and acid "saga" of a spoiled tomato: from the plantation of a "Nisei" (Brazilian with Japanese origins); to a supermarket; to a consumer's kitchen to become sauce...
+- [Manufacturing Consent: Noam Chomsky and the Media (1992)](http://www.imdb.com/title/tt0104810/) - O filme traz o anarquista Noam Chomsky falando sobre o papel da mídia corporativista na propaganda moderna.
+- [Beyond Citizen Kane (1993)](http://www.imdb.com/title/tt1356393/) - The influence of Rede Globo,a TV network, on a whole country.
+- [Acratas (2000)](http://www.imdb.com/title/tt0382519/) - Documentário sobre o anarquismo no Uruguai, com foco no anarquista expropriador argentino Miguel Arcángel Roscigna.
+- [The Coconut Revolution (2000)](http://www.imdb.com/title/tt0479000/) - Recente e representativo fato histórico ocorrido em Bougainville, ilha existente no continente da Oceania. Reconhecido de diferentes maneiras, a Revolução de Bougainville ou Guerra Civil de Bougainville, ou até mesmo a Revolução dos Cocos, Ocorreu durante os anos de 1988 à 1997 e foi um conflito armado entre o governo da Papua Nova Guiné e o movimento pela independência da ilha (a maior das Ilhas Salomão). O movimento, então composto por um grupo de mineiros, cria o Exército Revolucionário de Boungainville (Bougainville Revolutionary Army ou BRA, como ficou conhecido) e inicia uma rebelião separatista. 
 - [The Revolution Will Not Be Televised (2003)](http://www.imdb.com/title/tt0363510/) - In April 2002, an Irish film crew is making a documentary about Venezuelan President Hugo Chavez, when a coup from the opposition is made.
+- [The Diary of Sacco and Vanzetti (2004)](http://www.imdb.com/title/tt0779263/) - Documentário sobre o caso de Sacco e Vanzetti, anarquistas italianos julgados e executados, apesar de serem inocentes, nos Estados Unidos, em 1927.
+- [There Is No Authority But Yourself (2006)](http://www.imdb.com/title/tt2368852/) - Documentário sobre a banda punk anarquista Crass e conta com imagens de arquivo da banda e entrevista com os integrantes.
 - [The Shock Doctrine (2009)](http://www.imdb.com/title/tt1355640/) - An investigation of "disaster capitalism", based on Naomi Klein's proposition that neo-liberal capitalism feeds on natural disasters, war and terror to establish its dominance.
 - [Inside Job (2010)](http://www.imdb.com/title/tt1645089/) -  Takes a closer look at what brought about the 2008 financial meltdown.
-- [Four Horsemen (2012)](http://www.imdb.com/title/tt1671513/) - The modern day Four Horsemen continue to ride roughshod over the people who can least afford it. Crises are converging when governments, religion and mainstream economists have stalled. 23 ...
+- [Indomables – Una História de Mujeres Libres (2011)](https://youtu.be/xvOz-VfEwgk) - Documentário sobre as Mujeres Libres, organização de mulheres que lutou ativamente durante a Revolução Espanhola, de 1936 a 1939, na Espanha.
+- [Four Horsemen (2012)](http://www.imdb.com/title/tt1671513/) - The modern day Four Horsemen continue to ride roughshod over the people who can least afford it. Crises are converging when governments, religion and mainstream economists have stalled...
 - [The Pervert's Guide to Ideology (2012)](http://www.imdb.com/title/tt2152198/) - Philosopher Slavoj Zizek examines the hidden themes and existential questions asked by world renowned films.
 - [The Internet's Own Boy: The Story of Aaron Swartz (2014)](http://www.imdb.com/title/tt3268458/) - The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26.
+- [Domínio Público (2014)](https://youtu.be/dKVjbopUTRs) - Documentário lançado recentemente. “Entre 2011 e 2014, o documentário investigou as transformações no Rio de Janeiro por conta dos megaeventos: UPPs nas favelas, remoções forçadas, privatizações de espaços públicos e revoltas populares.” Realização de Paêbirú Realizações Cultivadas.
+
+
 
 ## Filmes
 
@@ -51,11 +61,12 @@
 
 - [Tristeza do Jeca (1961)](http://www.imdb.com/title/tt0191585/)
 - [Casinha Pequenina (1963)](http://www.imdb.com/title/tt0193801/)
-- [Deus e o Diabo na Terra do Sol (1964)](http://www.imdb.com/title/tt0058006/) - O Sertanejo Manoel e sua mulher Rosa levam uma vida sofrida no interior do país, uma terra desolada e marcada pela seca. No entanto, Manoel tem um plano: usar o lucro obtido na partilha do gado com o coronel para comprar um pedaço de terra. Quando leva o gado para a cidade, alguns animais morrem no percurso. Chegado o momento da partilha, o coronel diz que não vai dar nada ao sertanejo, porque o gado que morreu era dele, ao passo que o que chegou vivo era seu. Manoel se irrita, mata o coronel e foge para casa. Ele e sua esposa resolvem ir embora, deixando tudo para trás. Manoel decide juntar-se a um grupo religioso liderado por um santo (Sebastião) que lutava contra os grandes latifundiários e em busca do paraíso após a morte. Os latifundiários decidem contratar Antônio das Mortes para perseguir e matar o grupo.
-- [Terra em Transe (1967)](http://www.imdb.com/title/tt0062352/) - Na fictícia República de Eldorado, Paulo Martins é um jornalista idealista e poeta ligado ao político conservador em ascensão e tecnocrata Porfírio Diaz e à amante dele, a meretriz Silvia, com quem também mantêm um caso formando um triângulo amoroso. Quando Diaz se elege senador, Paulo se afasta e vai para a província de Alecrim, onde conhece a ativista Sara. Juntos eles resolvem apoiar o vereador populista Felipe Vieira para governador na tentativa de lançarem um novo líder político, supostamente progressista...
+- [Deus e o Diabo na Terra do Sol (1964)](http://www.imdb.com/title/tt0058006/) - O Sertanejo Manoel e sua mulher Rosa levam uma vida sofrida no interior do país, uma terra desolada e marcada pela seca. No entanto, Manoel tem um plano: usar o lucro obtido na partilha do gado com o coronel para comprar um pedaço de terra. Quando leva o gado para a cidade, alguns animais morrem no percurso. Chegado o momento da partilha, o coronel diz que não vai dar nada ao sertanejo, porque o gado que morreu era dele, ao passo que o que chegou vivo era seu...
+- [Terra em Transe (1967)](http://www.imdb.com/title/tt0062352/) - Na fictícia República de Eldorado, Paulo Martins é um jornalista idealista e poeta ligado ao político conservador em ascensão e tecnocrata Porfírio Diaz e à amante dele, a meretriz Silvia, com quem também mantêm um caso formando um triângulo amoroso. Quando Diaz se elege senador, Paulo se afasta e vai para a província de Alecrim, onde conhece a ativista Sara...
+- [La Cecilia (1975)](http://www.imdb.com/title/tt0072772/) - o filme relata a experiência libertária da Colônia Cecília, comuna anarquista fundada em 1890 pelo italiano Giovanni Rossi, no Paraná.
 - [O Jeca e a Égua Milagrosa (1980)](http://www.imdb.com/title/tt0236339/)
 - [Pixote (1981)](http://www.imdb.com/title/tt0082912/) - Neste filme, Hector Babenco construiu um dos mais cruéis retratos da realidade nas ruas de São Paulo, onde crianças têm sua inocência retirada ao entrarem em contato com um mundo de crimes, prostituição e violência.
-- [Memórias do Cárcere (1984)](http://www.imdb.com/title/tt0087709/) - Em 1935, o Governo de Getúlio Vargas esmagou a revolta militar da Aliança Nacional Libertadora, conhecida como Intentona Comunista, e aplicou medidas que suspendiam as garantias das liberdades individuais de todos os brasileiros. Graciliano Ramos, escritor afamado e dirigente público de Ensino em Alagoas simpatizante comunista que trabalhava no Palácio do Governo, acabou sendo preso em março de 1936 sem haver um processo formal de acusação. Depois de um tempo nos quartéis, cárceres públicos onde presenciou a ordem de deportação de Olga Benário Prestes e Elisa, e num hospital em que podia receber as visitas de advogado e da esposa Heloísa, ele foi enviado à remota Colônia Penal da Ilha Grande. Ali, apesar de muito doente devido a uma úlcera mal curada, continuou a escrever e consegue sobreviver aos 10 meses de confinamento [3] em condições precárias e sofrendo crueldades, com a ajuda de alguns funcionários e dos demais prisioneiros de sua seção, ladrões e revoltosos políticos, e que esperavam serem retratados nos livros do escritor.
+- [Memórias do Cárcere (1984)](http://www.imdb.com/title/tt0087709/) - Em 1935, o Governo de Getúlio Vargas esmagou a revolta militar da Aliança Nacional Libertadora, conhecida como Intentona Comunista, e aplicou medidas que suspendiam as garantias das liberdades individuais de todos os brasileiros. Graciliano Ramos, escritor afamado e dirigente público de Ensino em Alagoas simpatizante comunista que trabalhava no Palácio do Governo, acabou sendo preso em março de 1936 sem haver um processo formal de acusação...
 - [Lamarca (1994)](http://www.imdb.com/title/tt0110298/) - Lamarca é um filme brasileiro de 1994, dirigido por Sérgio Rezende e baseado em livro de Emiliano José e Miranda Oldack, de título Lamarca, o capitão da guerrilha, uma biografia do militar e guerrilheiro Carlos Lamarca.
 - [Olga (2004)](http://www.imdb.com/title/tt0196811/) - Olga Benário (Camila Morgado) é uma militante comunista desde jovem, que é perseguida pela polícia e foge para Moscou. Em Moscou, Olga faz treinamento militar. Lá ela é encarregada de acompanhar Luís Carlos Prestes (Caco Ciocler) ao Brasil para liderar a Intentona Comunista de 1935, se apaixonando por ele na viagem.
 - [Tapete Vermelho (2005)](http://www.imdb.com/title/tt0810096/) - Quinzinho (Matheus Nachtergaele) has a promise to keep: take your child, Neco (Vinicius Miranda), to the city to watch a movie Mazzaropi. They live in a small farm in São Paulo.
@@ -64,31 +75,47 @@
 
 ### Internacionais
 
+- [A Greve (1925)](http://www.imdb.com/title/tt0015361/) - Stachka (original title). A group of oppressed factory workers go on strike in pre-revolutionary Russia.
+- [O Encouraçado Potemkin (1925)](http://www.imdb.com/title/tt0015648/) - Bronenosets Potemkin (original title). A dramatized account of a great Russian naval mutiny and a resulting street demonstration which brought on a police massacre. 
+- [Outubro (1928)](http://www.imdb.com/title/tt0018217/) - Oktyabr (original title). In documentary style, events in Petrograd are re-enacted from the end of the monarchy in February of 1917 to the end of the provisional government and the decrees of peace and of land in...
+- [Modern Times (1936)](http://www.imdb.com/title/tt0027977/) - The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
+- [The Great Dictator (1940)](http://www.imdb.com/title/tt0032553/) - Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.
+- [Viva Zapata! (1952)](http://www.imdb.com/title/tt0045296/) - A história do revolucionário mexicano Emiliano Zapata, que liderou uma rebelião contra os corruptos ditadura opressiva do presidente Porfirio Diaz no início do século 20.
+- [A Batalha de Argel (1966)](http://www.imdb.com/title/tt0058946/) - La battaglia di Algeri (original title). Filme conta a história da Independência da Argélia e a opressão da França sobre o povo argelino.
+- [Sacco e Vanzetti (1971)] () - The story of two anarchists who were charged and unfairly tried for murder when it was really for their political convictions.
+- [Reds (1981)](http://www.imdb.com/title/tt0082979/) - O filme conta a história de John Reed na época da Primeira Guerra Mundial. Reed participa da Revolução Russa e espera levar os conhecimentos para os Estados Unidos. Interessante notar que uma das atrizes ganhou um Oscar por esse filme, pelo papel da anarquista Emma Goldman.
+- [Rosa Luxemburgo (1986)](http://www.imdb.com/title/tt0091869/) - Filme conta a história da socialista marxista Rosa Luxemburgo, uma das marxistas mais adoradas pelos anarquistas.
+- [Matewan (1987)](http://www.imdb.com/title/tt0093509/) - O filme conta a história de mineradores tentando formar um sindicato para lutar por seus direitos.
+- [Germinal (1993)](http://www.imdb.com/title/tt0107002/) - In mid-nineteenth-century northern France, a coal mining town's workers are exploited by the mine's owner. One day, they decide to go on strike, and the authorities repress them. 
+- [Terra E Liberdade (1995)](http://www.imdb.com/title/tt0114671/) - Comunista inglês deixa seu país para se juntar a um grupo marxista para lutar na Revolução Espanhol. Apesar de o personagem principal ser comunista.
+- [Libertarias (1996)](http://www.imdb.com/title/tt0113649/) - O filme se passa durante a Revolução Espanhola. Uma mulher é recrutada a fazer parte de um grupo militante anarquista, Mujeres Libres, por uma militante feminista que participa da Revolução.
+- [A Bug's Life (1998)](http://www.imdb.com/title/tt0120623/) - A misfit ant, looking for "warriors" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.
+- [La commune (Paris, 1871) (2000)](http://www.imdb.com/title/tt0257497/) - O filme é uma encenação dos acontecimentos da Comuna de Paris, revolta popular que teve um protagonismo muito grande dos anarquistas.
+- [Anakiseuteu Anarchists (2000)](http://www.imdb.com/title/tt0280427/) - Um grupo coreano anarquista inssurreacionalista tenta através de suas acões derrubar o governo imperialista da China, em 1920.
+- [O Que Fazer em Caso de Incêndio (2001)](http://www.imdb.com/title/tt0207198/) - Was tun, wenn's brennt? (original title). Um grupo de seis anarquistas que viviam em ocupações (squats) nos anos 80 e deixam uma bomba em uma mansão. Porém, a bomba só explode 20 anos depois, quando cada um do grupo já tinha ido viver sua vida. Assim, o grupo se reúne de novo para tentarem livrar a cara deles. O filme mostra os anarquistas de maneira bastante caricata, mas é interessante para levantar a questão.
+- [Edukators (2004)](http://www.imdb.com/title/tt0408777/) - Die fetten Jahre sind vorbei (original title), o filme gira em torno de três amigos ativistas, uma menina e dois meninos. Os caras costumam invadir casas luxuosas e mudar os móveis de lugar, deixando bilhetes como “Seus dias de fartura estão contados” e “Você tem dinheiro demais”, assinados pelos Educadores. Porém, em uma das atividades, o dono do imóvel chega e a intervenção acaba virando um sequestro.
+- [Salvador (Puig Antich) (2006)](http://www.imdb.com/title/tt0445691/) - O filme conta a história de Salvador Puig Antich, um anarquista que roubava bancos e foi executado em 1974, na Espanha.
+- [Battle in Seattle (2007)](http://www.imdb.com/title/tt0850253/) - Em 1999, milhares de militantes e ativistas vão para Seattle durante Conferência da Organização Mundial do Comércio, em uma onda de movimentos antiglobalização. 
+- [O Grupo Baader Meinhof (2008)](http://www.imdb.com/title/tt0765432/) - Filme conta a história do grupo insurrecionalista alemão The Red Army Faction, nos anos 60 e 70.
+- [A Onda (2008)](http://www.imdb.com/title/tt1063669/) - Die Welle (original title). Filme, baseado em um experimento real, conta a história de um professor anarquista que, para tentar explicar que mesmo uma sociedade dita democrática pode ser tomada por uma ideologia fascista, realiza um experimento social com seus alunos. A primeira gravação foi feita em 1981, em inglês, baseada em um livro. E em 2008, foi gravada uma versão alemã.
+- [Louise Michel (2009)](http://www.imdb.com/title/tt1264890/) - O filme conta a história de Louise Michel, importante militante anarquista francesa, que participou ativamente da Comuna de Paris e foi a responsável por deflagrar a bandeira negra como símbolo do anarquismo.
+- [Diaz - Don't Clean Up This Blood (2012)](http://www.imdb.com/title/tt1934234/) - Ativistas, militantes e protestantes tentam fazer com que o encontro do G8 não aconteça em Genoa, Itália, 2001. O filme foca na ação policial ocorrida dentro de uma escola.
+- [Trumbo (2015)](http://www.imdb.com/title/tt3203606/) - In 1947, [Dalton Trumbo](http://www.imdb.com/name/nm0874308/) was Hollywood's top screenwriter, until he and other artists were jailed and blacklisted for their political beliefs.
+
 
 ## Canais de Notícia
 
 - [Carta Maior](http://www.cartamaior.com.br) - Auto-intitulado como um dos maiores portais de esquerda, com notícias e artigos de opinião, Entre os colaboradores do portal, nomes como os de Eduardo Galeano, Emir Sader, Leonardo Boff, Mauro Santayana, Gilberto Maringoni, Maria Inês Nassif, entre outros.
-
 - [Carta Capital](http://www.cartacapital.com.br/) - Alternativa ao pensamento único da imprensa brasileira e presente em todas as plataformas digitais, CartaCapital nasceu calçada no tripé do bom jornalismo, aquele baseado na fidelidade à verdade factual, no exercício do espírito crítico e na fiscalização do poder onde quer que se manifeste.
-
 - [Outras Palavras](http://www.outraspalavras.net) - Em torno dele existe um grupo de colaboradores, uma rede social e uma série de oficinas para formação em jornalismo colaborativo
-
 - [Conversa Afiada](http://www.conversaafiada.com.br/) - Site do jornalista Paulo Henrique Amorim - opinião corrosiva contra o 'PIG' - Partido da Imprensa Golpista. 
-
 - [Vio Mundo](http://www.viomundo.com.br) - "O que você não vê na mídia". Progressista, fonte confiável, isento, crítico e equilibrado
-
 - [Escrevinhador](http://www.rodrigovianna.com.br) - Blog chamado 'O Escrevinhador', do jornalista Rodrigo Vianna. Excelente fonte de informação, crítico à grande imprensa e apoiador do campo progressista
-
 - [Jornal Brasil de Fato Online](http://www.brasildefato.com.br) - Um dos mais importantes veículos de comunicação de esquerda no Brasil. Seu lema: "Uma visão popular do Brasil e do Mundo".
-
 - [Rede Brasil Atual](http://www.redebrasilatual.com.br) - Rede de comunicações dos trabalhadores, agência nacional de notícias e responsável pela Revista do Brasil. Conteúdo livre.
-
 - [Sakamoto](http://blogdosakamoto.blogosfera.uol.com.br/) - Blog do jornalista e doutor em Ciência Política Leonardo Sakamoto.
-
 - [Socialista Morena](http://www.socialistamorena.com.br/) - Este é um blog de ideias e notícias com viés esquerdista. Mas também de literatura, música, cinema, HQ, humor, viagens. Boas histórias, bons personagens. Boa comida. Alguma memória. E utopiapolitik.
-
 - [Não Me Kahlo](http://www.naomekahlo.com/) - Grupo de mulheres que resolveram formar um Coletivo Feminista.
-
 - [The Intercept_Brasil](https://theintercept.com/brasil/) - O The Intercept foi lançado em 2014 por Glenn Greenwald, Laura Poitras e Jeremy Scahill com o objetivo de produzir um jornalismo destemido e combativo. Acreditamos que o jornalismo deve promover transparência, responsabilizando instituições governamentais e corporativas. Portanto, nossos jornalistas contam com a liberdade editorial e o suporte jurídico necessários para desempenhar tal missão.
 
 ## Canais no Youtube
@@ -107,6 +134,7 @@
 - ["Marx ha Vuelto"](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X) - Minissérie baseada no Manifesto Comunista.
 - [Anatomia de uma fraude à Constituição](http://www.cic.unb.br/~rezende/trabs/fraudeac.html) - Este artigo registra uma investigação, e sua publicação visa a dois objetivos: o de preencher uma lacuna na história do Brasil, e o de evidenciar a importância da retenção de documentos de valor histórico ou jurídico em registro material, de forma a permitir, a qualquer um, formar juízo sobre sua autenticidade por meios próprios. A investigação revela como foi inserido na Constituição Federal, de forma ilegal e solerte, dispositivo que acarreta danos cada vez mais pesados à economia e à sociedade brasileiras.
 - [Story of Stuff](http://storyofstuff.org) - "The Story of Stuff Project’s journey began with a [20-minute online movie](http://storyofstuff.org/movies/story-of-stuff/) about the way we make, use and throw away all the Stuff in our lives. Five years and 40 million views later, we’re a Community of more than a million changemakers worldwide, working to build a more healthy and just planet. We invite you to watch and share our movies, participate in our study programs and join our campaigns. Come on, let’s go!"
+- [Biblioteca Social Fábio Luz ~ Conhecimento liberta!](https://bibliotecasocialfabioluz.wordpress.com/) - Fundada em 18 de novembro de 2001 – data que lembra a Insurreição Anarquista do Rio de Janeiro, em 1918 – a Biblioteca Social Fábio Luz (BSFL) começou a formar seu acervo a partir da reunião de livros, revistas, periódicos e documentos remanescentes dos arquivos do CELIP (Círculo de Estudos Libertários Ideal Peres), ocupando, desde então, uma das salas do [Centro de Cultura Social do Rio de Janeiro](https://ccsrj.wordpress.com/) (CCS – RJ), no mesmo prédio que abrigou a centenária Associação Baiana de Beneficência, da qual o escritor, jornalista, médico e professor Fábio Luz foi sócio no início do século XX.
 
 ## Licença
 
