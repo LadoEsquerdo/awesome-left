@@ -11,6 +11,7 @@
 	* [Internacionais](#internacionais)
 * [Canais de Notícia](#canais-de-noticia)
 * [Canais no Youtube](#canais-no-youtube)
+* [Podcasts](#podcasts)
 * [Outros](#outros)
 * [Licença](#licenca)
 
@@ -42,15 +43,18 @@
 - [The Revolution Will Not Be Televised (2003)](http://www.imdb.com/title/tt0363510/) - In April 2002, an Irish film crew is making a documentary about Venezuelan President Hugo Chavez, when a coup from the opposition is made.
 - [The Diary of Sacco and Vanzetti (2004)](http://www.imdb.com/title/tt0779263/) - Documentário sobre o caso de Sacco e Vanzetti, anarquistas italianos julgados e executados, apesar de serem inocentes, nos Estados Unidos, em 1927.
 - [There Is No Authority But Yourself (2006)](http://www.imdb.com/title/tt2368852/) - Documentário sobre a banda punk anarquista Crass e conta com imagens de arquivo da banda e entrevista com os integrantes.
+- [Comunistas transam melhor? (2006)](http://www.socialistamorena.com.br/comunistas-transam-melhor/) - Liebte der Osten anders? - Sex im geteilten Deutschland (original title). O documentário Liebte der Osten Anders? (“Comunistas transam melhor?”, na tradução do título em inglês), dirigido em 2006 por Andre Meier, parte da premissa, comprovada estatisticamente, de que no lado comunista do muro de Berlim as pessoas faziam mais e melhor sexo que do lado capitalista, e tenta explicar por quê. É surpreendente descobrir que, apesar da censura e da proibição da pornografia, os alemães orientais (e sobretudo as alemãs) tinham mais liberdade sexual do que os ocidentais. Mais orgasmos, inclusive.
 - [The Shock Doctrine (2009)](http://www.imdb.com/title/tt1355640/) - An investigation of "disaster capitalism", based on Naomi Klein's proposition that neo-liberal capitalism feeds on natural disasters, war and terror to establish its dominance.
 - [Inside Job (2010)](http://www.imdb.com/title/tt1645089/) -  Takes a closer look at what brought about the 2008 financial meltdown.
 - [Indomables – Una História de Mujeres Libres (2011)](https://youtu.be/xvOz-VfEwgk) - Documentário sobre as Mujeres Libres, organização de mulheres que lutou ativamente durante a Revolução Espanhola, de 1936 a 1939, na Espanha.
 - [Four Horsemen (2012)](http://www.imdb.com/title/tt1671513/) - The modern day Four Horsemen continue to ride roughshod over the people who can least afford it. Crises are converging when governments, religion and mainstream economists have stalled...
 - [The Pervert's Guide to Ideology (2012)](http://www.imdb.com/title/tt2152198/) - Philosopher Slavoj Zizek examines the hidden themes and existential questions asked by world renowned films.
+- [TPB AFK: The Pirate Bay Away from Keyboard (2013)](http://www.imdb.com/title/tt2608732/) - Um documentário de liberdade intelectual baseado acerca dos triunfos e derrotas interpessoais dos três principais personagens contra a maior indústria conhecida no universo. A indústria da mídia.
 - [The Internet's Own Boy: The Story of Aaron Swartz (2014)](http://www.imdb.com/title/tt3268458/) - The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26.
 - [Domínio Público (2014)](https://youtu.be/dKVjbopUTRs) - Documentário lançado recentemente. “Entre 2011 e 2014, o documentário investigou as transformações no Rio de Janeiro por conta dos megaeventos: UPPs nas favelas, remoções forçadas, privatizações de espaços públicos e revoltas populares.” Realização de Paêbirú Realizações Cultivadas.
-
-
+- [Best of Enemies (2015)](http://www.imdb.com/title/tt3518012/) - A documentary on the series of televised debates in 1968 between liberal Gore Vidal and conservative William F. Buckley.
+- [The Brainwashing of My Dad (2015)](www.thebrainwashingofmydad.com) - A filmmaker examines the rise of right-wing media through the lens of her father, whose immersion in it radicalized him and rocked the foundation of their family. She discovers this political phenomenon recurring in living rooms everywhere, and reveals the consequences conservative media has had on families and a nation.
+- [Em Busca da Verdade (2015)](https://youtu.be/BUiFjNBP77Y) - Documentário vencedor do Prêmio Vladimir Herzog apresenta as principais investigações da Comissão Nacional e das Comissões Estaduais da Verdade sobre as graves violações de direitos humanos ocorridas na ditadura de 1964.
 
 ## Filmes
 
@@ -108,8 +112,9 @@
 - [A Onda (2008)](http://www.imdb.com/title/tt1063669/) - Die Welle (original title). Filme, baseado em um experimento real, conta a história de um professor anarquista que, para tentar explicar que mesmo uma sociedade dita democrática pode ser tomada por uma ideologia fascista, realiza um experimento social com seus alunos. A primeira gravação foi feita em 1981, em inglês, baseada em um livro. E em 2008, foi gravada uma versão alemã.
 - [Louise Michel (2009)](http://www.imdb.com/title/tt1264890/) - O filme conta a história de Louise Michel, importante militante anarquista francesa, que participou ativamente da Comuna de Paris e foi a responsável por deflagrar a bandeira negra como símbolo do anarquismo.
 - [Diaz - Don't Clean Up This Blood (2012)](http://www.imdb.com/title/tt1934234/) - Ativistas, militantes e protestantes tentam fazer com que o encontro do G8 não aconteça em Genoa, Itália, 2001. O filme foca na ação policial ocorrida dentro de uma escola.
+- [Pride (2014)](http://www.imdb.com/title/tt3169706/) - U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.
 - [Trumbo (2015)](http://www.imdb.com/title/tt3203606/) - In 1947, [Dalton Trumbo](http://www.imdb.com/name/nm0874308/) was Hollywood's top screenwriter, until he and other artists were jailed and blacklisted for their political beliefs.
-
+- [Marx ha Vuelto](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X) - Minissérie baseada no Manifesto Comunista.
 
 ## Canais de Notícia
 
@@ -132,14 +137,16 @@
 - [Auditoria Cidadã da Dívida](https://www.youtube.com/user/auditoriadidada/videos)
 - [Outras Palavras](https://www.youtube.com/channel/UCXQR-5Obb1uAQthcWP3ejFA/featured) - Comunicação compartilhada e Pós-capitalismo
 - [Xadrez Verbal](https://www.youtube.com/user/xadrezverbal/featured) - Não é um canal de esquerda. Canal com vídeos próprios sobre História, política, atualidades e política internacional. Também é site e podcast.
-- [TvPTS El canal de la izquierda](https://www.youtube.com/user/ptsargentina/featured) - TVPTS el canal de la izquierda. Una iniciativa del Partido de Trabajadores Socialistas. (Argentina) 
+- [TvPTS El canal de la izquierda](https://www.youtube.com/user/ptsargentina/featured) - TVPTS el canal de la izquierda. Una iniciativa del Partido de Trabajadores Socialistas. (Argentina)
 
-## Outros
+## Podcasts
 
 - [Mamilos Podcast](https://soundcloud.com/mamilospod) - As polêmicas da semana discutidas com inteligência, empatia, tolerância e bom humor.
 - [AntiCast Podcast](https://soundcloud.com/anticastdesign) - Podcast sobre política, história, artes e qualquer outra forma de subversão.
 - [Salvo Melhor Juízo Podcast](https://soundcloud.com/salvo-melhor-ju-zo) - O seu podcast sobre direito é aqui. Até que se prove o contrário.
-- ["Marx ha Vuelto"](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X) - Minissérie baseada no Manifesto Comunista.
+
+## Outros
+
 - [Anatomia de uma fraude à Constituição](http://www.cic.unb.br/~rezende/trabs/fraudeac.html) - Este artigo registra uma investigação, e sua publicação visa a dois objetivos: o de preencher uma lacuna na história do Brasil, e o de evidenciar a importância da retenção de documentos de valor histórico ou jurídico em registro material, de forma a permitir, a qualquer um, formar juízo sobre sua autenticidade por meios próprios. A investigação revela como foi inserido na Constituição Federal, de forma ilegal e solerte, dispositivo que acarreta danos cada vez mais pesados à economia e à sociedade brasileiras.
 - [Story of Stuff](http://storyofstuff.org) - "The Story of Stuff Project’s journey began with a [20-minute online movie](http://storyofstuff.org/movies/story-of-stuff/) about the way we make, use and throw away all the Stuff in our lives. Five years and 40 million views later, we’re a Community of more than a million changemakers worldwide, working to build a more healthy and just planet. We invite you to watch and share our movies, participate in our study programs and join our campaigns. Come on, let’s go!"
 - [Biblioteca Social Fábio Luz ~ Conhecimento liberta!](https://bibliotecasocialfabioluz.wordpress.com/) - Fundada em 18 de novembro de 2001 – data que lembra a Insurreição Anarquista do Rio de Janeiro, em 1918 – a Biblioteca Social Fábio Luz (BSFL) começou a formar seu acervo a partir da reunião de livros, revistas, periódicos e documentos remanescentes dos arquivos do CELIP (Círculo de Estudos Libertários Ideal Peres), ocupando, desde então, uma das salas do [Centro de Cultura Social do Rio de Janeiro](https://ccsrj.wordpress.com/) (CCS – RJ), no mesmo prédio que abrigou a centenária Associação Baiana de Beneficência, da qual o escritor, jornalista, médico e professor Fábio Luz foi sócio no início do século XX.
