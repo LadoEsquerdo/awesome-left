@@ -117,6 +117,7 @@
 - [Trumbo (2015)](http://www.imdb.com/title/tt3203606/) - In 1947, [Dalton Trumbo](http://www.imdb.com/name/nm0874308/) was Hollywood's top screenwriter, until he and other artists were jailed and blacklisted for their political beliefs.
 - [Marx ha Vuelto](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X) - Minissérie baseada no Manifesto Comunista.
 
+
 ## Canais de Notícia
 
 - [Carta Maior](http://www.cartamaior.com.br) - Auto-intitulado como um dos maiores portais de esquerda, com notícias e artigos de opinião, Entre os colaboradores do portal, nomes como os de Eduardo Galeano, Emir Sader, Leonardo Boff, Mauro Santayana, Gilberto Maringoni, Maria Inês Nassif, entre outros.
@@ -142,6 +143,15 @@
 - [Outras Palavras](https://www.youtube.com/channel/UCXQR-5Obb1uAQthcWP3ejFA/featured) - Comunicação compartilhada e Pós-capitalismo
 - [Xadrez Verbal](https://www.youtube.com/user/xadrezverbal/featured) - Não é um canal de esquerda. Canal com vídeos próprios sobre História, política, atualidades e política internacional. Também é site e podcast.
 - [TvPTS El canal de la izquierda](https://www.youtube.com/user/ptsargentina/featured) - TVPTS el canal de la izquierda. Una iniciativa del Partido de Trabajadores Socialistas. (Argentina)
+- [Noam Chomsky em Português](https://www.youtube.com/channel/UCweS7hhuA4cY2vrhwheXvNA) - O linguista anarcossindicalista [Noam Chomsky](https://pt.wikipedia.org/wiki/Noam_Chomsky) tem seus vídeos traduzidos nesse canal do youtube.
+- [Leandro Zayd](https://www.youtube.com/channel/UCx544r_nqRWLhNPWpKS5EIg) - Não é exatamente de esquerda, mas Leandro Zayd discute com bom humor e de forma clara diversas iniciativas que podemos tomar para remodelar nossa sociedade
+- [Mas afinal](https://www.youtube.com/channel/UCL6ygBKtuMoMlDp_4ikvKrg) - Um canal sobre ciência políticas
+- [Os Mortadelas](https://www.youtube.com/channel/UCuvPSYzWcImMf_KI3i_WcwQ) - Ótimo canal com vídeos que englobam principalmente o cenário político brasileiro
+- [Prof. André Azevedo da Fonseca](https://www.youtube.com/channel/UCKKJpBveT8vWVNfLQ-MvZMg) - O professor André discute diversos assuntos envolvendo Educação, Comunicação e Ciências Humanas. Atenção para a série sobre o MESTRE Paulo Freire.
+- [Saia da Matrix](https://www.youtube.com/channel/UC3qAUf53j_dUv09jH7jsUJw) - Canal de um socialista e professor de história.
+- [Vini Oliveira](https://www.youtube.com/channel/UC9g2V53hdHg7NZRKBrJsviA) - Vini faz parte da nova geração de cartunistas e é comunista. Conhecido também por sua posição anti-governista e anti pós modernos.
+- [FRANK JAAVA](https://www.youtube.com/user/adrianofacioli/featured) - Frank Jaava faz críticas ao senso comum no seu canal (atenção para o ótimo vídeo sobre o bolsa família).
+- [](https://www.youtube.com/channel/UC7G7saR0vFSMh-SdEyF3Utg) - A missão do AND é construir e emancipar a imprensa democrática e popular, estreitando o contato com as massas, divulgando suas demandas, suas lutas, os crimes do Estado contra o povo e auxiliando assim na ampliação dos movimentos populares. AND têm obtido destaque nas coberturas jornalísticas das manifestações, da militarização de favelas e das remoções de bairros pobres no Rio de Janeiro. Não leia, não leia, jornais da burguesia. Leia o jornal A Nova Democracia.
 
 ## Podcasts
 
@@ -154,6 +164,8 @@
 - [Anatomia de uma fraude à Constituição](http://www.cic.unb.br/~rezende/trabs/fraudeac.html) - Este artigo registra uma investigação, e sua publicação visa a dois objetivos: o de preencher uma lacuna na história do Brasil, e o de evidenciar a importância da retenção de documentos de valor histórico ou jurídico em registro material, de forma a permitir, a qualquer um, formar juízo sobre sua autenticidade por meios próprios. A investigação revela como foi inserido na Constituição Federal, de forma ilegal e solerte, dispositivo que acarreta danos cada vez mais pesados à economia e à sociedade brasileiras.
 - [Story of Stuff](http://storyofstuff.org) - "The Story of Stuff Project’s journey began with a [20-minute online movie](http://storyofstuff.org/movies/story-of-stuff/) about the way we make, use and throw away all the Stuff in our lives. Five years and 40 million views later, we’re a Community of more than a million changemakers worldwide, working to build a more healthy and just planet. We invite you to watch and share our movies, participate in our study programs and join our campaigns. Come on, let’s go!"
 - [Biblioteca Social Fábio Luz ~ Conhecimento liberta!](https://bibliotecasocialfabioluz.wordpress.com/) - Fundada em 18 de novembro de 2001 – data que lembra a Insurreição Anarquista do Rio de Janeiro, em 1918 – a Biblioteca Social Fábio Luz (BSFL) começou a formar seu acervo a partir da reunião de livros, revistas, periódicos e documentos remanescentes dos arquivos do CELIP (Círculo de Estudos Libertários Ideal Peres), ocupando, desde então, uma das salas do [Centro de Cultura Social do Rio de Janeiro](https://ccsrj.wordpress.com/) (CCS – RJ), no mesmo prédio que abrigou a centenária Associação Baiana de Beneficência, da qual o escritor, jornalista, médico e professor Fábio Luz foi sócio no início do século XX.
+- [DOC VERDADE](http://docverdade.blogspot.com.br/) - docverdade é onde você vai encontrar a grande maioria dos melhores documentários de esquerda.
+
 
 ## Licença
 
