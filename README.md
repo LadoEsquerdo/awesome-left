@@ -131,6 +131,9 @@
 - [Socialista Morena](http://www.socialistamorena.com.br/) - Este é um blog de ideias e notícias com viés esquerdista. Mas também de literatura, música, cinema, HQ, humor, viagens. Boas histórias, bons personagens. Boa comida. Alguma memória. E utopiapolitik.
 - [Não Me Kahlo](http://www.naomekahlo.com/) - Grupo de mulheres que resolveram formar um Coletivo Feminista.
 - [The Intercept_Brasil](https://theintercept.com/brasil/) - O The Intercept foi lançado em 2014 por Glenn Greenwald, Laura Poitras e Jeremy Scahill com o objetivo de produzir um jornalismo destemido e combativo. Acreditamos que o jornalismo deve promover transparência, responsabilizando instituições governamentais e corporativas. Portanto, nossos jornalistas contam com a liberdade editorial e o suporte jurídico necessários para desempenhar tal missão.
+- [Jornalistas Livres](https://jornalistaslivres.org) - somos uma rede de coletivos originada na diversidade. Existimos em contraponto à falsa unidade de pensamento e ação do jornalismo praticado pela mídia tradicional centralizada e centralizadora. Pensamos com nossas próprias cabeças, cada um(a) de nós com sua própria cabeça. Os valores que nos unem são o amor apaixonado pela democracia e a defesa radical dos direitos humanos.
+- [O Cafézinho](http://www.ocafezinho.com/) - Blog progressista bem ligado ao contexto político brasileiro.
+- [Opera Mundi](http://operamundi.uol.com.br/) - Opera Mundi é um veículo especializado em política internacional, política externa e economia, numa perspectiva global. O projeto teve início em 2008, quando os editores do site Última Instância avaliaram que faltava no país um veículo capaz de noticiar e analisar os fatos do mundo a partir de uma perspectiva crítica e brasileira.
 
 ## Canais no Youtube
 
