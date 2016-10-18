@@ -169,6 +169,7 @@
 - [Resposta ao “Instituto Liberal” por Matheus Boni](http://www.trincheiras.com.br/2015/10/resposta-ao-instituto-liberal/) - Deu trabalho, mas respondi todas as 60 “perguntas desconcertantes” de um certo instituto liberaleco.
 	Tenho que dizer que estou decepcionado. Na maioria das vezes não são perguntas de verdade, são retóricas, com várias afirmações implícitas e falaciosas.
 	As “perguntas”, na verdade, não passavam de falácias, construídas sobre bonecos de palha e afirmações do consequente. O que fiz, na maior parte das vezes, foi desmontar a pergunta falaciosa, que por sua vez era uma resposta a um boneco de palha criado especialmente para os fins do apologista do capitalismo. 
+- [Laibach: genialidade, política e polêmica no rock](http://www.avioesemusicas.com/laibach-genialidade-politica-e-polemica-no-rock.html) - "Laibach, um dos grupos de rock mais originais, ousados, provocativos e polêmicos do mundo."
 
 
 ## Licença
