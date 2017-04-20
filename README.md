@@ -30,7 +30,7 @@
 - [A REVOLUÇÃO DOS BICHOS - Um conto de fadas](http://www.companhiadasletras.com.br/detalhe.php?codigo=12374) - Escrita em plena Segunda Guerra Mundial e publicada em 1945 depois de ter sido rejeitada por várias editoras, essa pequena narrativa causou desconforto ao satirizar ferozmente a ditadura stalinista numa época em que os soviéticos ainda eram aliados do Ocidente na luta contra o eixo nazifascista.
 - [Manifesto Autogestionário](http://2012.nildoviana.com/wp/wp-content/uploads/2012/09/Manifesto-Autogestionario-Nildo-Viana.pdf) - Livro do sociólogo brasileiro Nildo Viana. O livro propõe-se como uma atualização do Manifesto Comunista de Marx e Engels, abordando a questão do conflito entre o "trabalho morto" e o "trabalho vivo" de uma perspectiva libertária a partir do princípio da autogestão.
 
-## Documentários
+<h2 id="documentarios">Documentários</h2>
 
 - [La batalla de Chile: La lucha de un pueblo sin armas - Primera parte: La insurreción de la burguesía (1975)](http://www.imdb.com/title/tt0072685/) - The chronicle of the political tension in Chile in 1973 and of the violent counter revolution against the democratically elected government of Salvador Allende.
 - [Harlan County: Tragédia Americana (1976)]() - Harlan County U.S.A. (original title). É um documentário estadunidense de 1976 produzido e dirigido por Barbara Kopple, que cobre a Greve de Brookside, onde 180 mineiros e suas esposas enfrentam os proprietários da Eastover Coal Company's Brookside Mine, a empresa Duke Energy. O filme ganhou o Oscar de melhor documentário em 1976.
@@ -118,8 +118,7 @@
 - [Trumbo (2015)](http://www.imdb.com/title/tt3203606/) - In 1947, [Dalton Trumbo](http://www.imdb.com/name/nm0874308/) was Hollywood's top screenwriter, until he and other artists were jailed and blacklisted for their political beliefs.
 - [Marx ha Vuelto](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X) - Minissérie baseada no Manifesto Comunista.
 
-
-## Canais de Notícia
+<h2 id="canais-de-noticia">Canais de Notícia</h2>
 
 - [Carta Maior](http://www.cartamaior.com.br) - Auto-intitulado como um dos maiores portais de esquerda, com notícias e artigos de opinião, Entre os colaboradores do portal, nomes como os de Eduardo Galeano, Emir Sader, Leonardo Boff, Mauro Santayana, Gilberto Maringoni, Maria Inês Nassif, entre outros.
 - [Carta Capital](http://www.cartacapital.com.br/) - Alternativa ao pensamento único da imprensa brasileira e presente em todas as plataformas digitais, CartaCapital nasceu calçada no tripé do bom jornalismo, aquele baseado na fidelidade à verdade factual, no exercício do espírito crítico e na fiscalização do poder onde quer que se manifeste.
@@ -136,8 +135,9 @@
 - [Jornalistas Livres](https://jornalistaslivres.org) - somos uma rede de coletivos originada na diversidade. Existimos em contraponto à falsa unidade de pensamento e ação do jornalismo praticado pela mídia tradicional centralizada e centralizadora. Pensamos com nossas próprias cabeças, cada um(a) de nós com sua própria cabeça. Os valores que nos unem são o amor apaixonado pela democracia e a defesa radical dos direitos humanos.
 - [O Cafézinho](http://www.ocafezinho.com/) - Blog progressista bem ligado ao contexto político brasileiro.
 - [Opera Mundi](http://operamundi.uol.com.br/) - Opera Mundi é um veículo especializado em política internacional, política externa e economia, numa perspectiva global. O projeto teve início em 2008, quando os editores do site Última Instância avaliaram que faltava no país um veículo capaz de noticiar e analisar os fatos do mundo a partir de uma perspectiva crítica e brasileira.
+- [Blog Jorge Luiz Souto Maior](http://www.jorgesoutomaior.com/blog) - Blog do juiz do trabalho e professor da USP Jorge Luiz Souto Maior, mistura direito e ciências sociais e fala sobre a CLT.
 
-## Canais no Youtube
+<h2 id="canais-no-youtube">Canais no Youtube</h2>
 
 - [Ana Roxo](https://www.youtube.com/channel/UC103EEyV8RzaJjH7BjhsP-w/videos?view=0&shelf_id=0&sort=dd) - Não é assumidamente um canal de esquerda, mas tem boas reflexões a respeito e com uma pitada de sarcasmo e bom humor.
 - [Auditoria Cidadã da Dívida](https://www.youtube.com/user/auditoriadidada/videos)
@@ -172,6 +172,7 @@
 - [Laibach: genialidade, política e polêmica no rock](http://www.avioesemusicas.com/laibach-genialidade-politica-e-polemica-no-rock.html) - "Laibach, um dos grupos de rock mais originais, ousados, provocativos e polêmicos do mundo."
 
 
-## Licença
+<h2 id="licenca">Licença</h2>
+
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
