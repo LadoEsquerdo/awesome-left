@@ -153,6 +153,8 @@
 - [Vini Oliveira](https://www.youtube.com/channel/UC9g2V53hdHg7NZRKBrJsviA) - Vini faz parte da nova geração de cartunistas e é comunista. Conhecido também por sua posição anti-governista e anti pós modernos.
 - [FRANK JAAVA](https://www.youtube.com/user/adrianofacioli/featured) - Frank Jaava faz críticas ao senso comum no seu canal (atenção para o ótimo vídeo sobre o bolsa família).
 - [Jornal A Nova Democracia](https://www.youtube.com/channel/UC7G7saR0vFSMh-SdEyF3Utg) - A missão do AND é construir e emancipar a imprensa democrática e popular, estreitando o contato com as massas, divulgando suas demandas, suas lutas, os crimes do Estado contra o povo e auxiliando assim na ampliação dos movimentos populares. AND têm obtido destaque nas coberturas jornalísticas das manifestações, da militarização de favelas e das remoções de bairros pobres no Rio de Janeiro. Não leia, não leia, jornais da burguesia. Leia o jornal A Nova Democracia.
+- [Justificando](https://www.youtube.com/channel/UClGI_T5ZXjHNBbpKrERbFHQ) - Canal mais à esquerda sobre justiça.
+
 
 ## Podcasts
 
