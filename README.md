@@ -136,6 +136,7 @@
 - [O Cafézinho](http://www.ocafezinho.com/) - Blog progressista bem ligado ao contexto político brasileiro.
 - [Opera Mundi](http://operamundi.uol.com.br/) - Opera Mundi é um veículo especializado em política internacional, política externa e economia, numa perspectiva global. O projeto teve início em 2008, quando os editores do site Última Instância avaliaram que faltava no país um veículo capaz de noticiar e analisar os fatos do mundo a partir de uma perspectiva crítica e brasileira.
 - [Blog Jorge Luiz Souto Maior](http://www.jorgesoutomaior.com/blog) - Blog do juiz do trabalho e professor da USP Jorge Luiz Souto Maior, mistura direito e ciências sociais e fala sobre a CLT.
+- [Cláudio Prado](midianinja.org/author/claudioprado/) - Produtor cultural e teórico da contracultura e da cultura digital.
 
 <h2 id="canais-no-youtube">Canais no Youtube</h2>
 
