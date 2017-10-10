@@ -155,6 +155,7 @@
 - [FRANK JAAVA](https://www.youtube.com/user/adrianofacioli/featured) - Frank Jaava faz críticas ao senso comum no seu canal (atenção para o ótimo vídeo sobre o bolsa família).
 - [Jornal A Nova Democracia](https://www.youtube.com/channel/UC7G7saR0vFSMh-SdEyF3Utg) - A missão do AND é construir e emancipar a imprensa democrática e popular, estreitando o contato com as massas, divulgando suas demandas, suas lutas, os crimes do Estado contra o povo e auxiliando assim na ampliação dos movimentos populares. AND têm obtido destaque nas coberturas jornalísticas das manifestações, da militarização de favelas e das remoções de bairros pobres no Rio de Janeiro. Não leia, não leia, jornais da burguesia. Leia o jornal A Nova Democracia.
 - [Justificando](https://www.youtube.com/channel/UClGI_T5ZXjHNBbpKrERbFHQ) - Canal mais à esquerda sobre justiça.
+- [ À Esquerda ] (https://www.youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg) - O à esquerda é um canal com informações, debates, e críticas à esquerda, à esquerda. O conteúdo dos vídeos e a maior parte da produção é todo feito por mim, Sabrina, que sou socióloga doutora, professora, militante ecossocialista e feminista.
 
 
 ## Podcasts
