@@ -155,7 +155,8 @@
 - [FRANK JAAVA](https://www.youtube.com/user/adrianofacioli/featured) - Frank Jaava faz críticas ao senso comum no seu canal (atenção para o ótimo vídeo sobre o bolsa família).
 - [Jornal A Nova Democracia](https://www.youtube.com/channel/UC7G7saR0vFSMh-SdEyF3Utg) - A missão do AND é construir e emancipar a imprensa democrática e popular, estreitando o contato com as massas, divulgando suas demandas, suas lutas, os crimes do Estado contra o povo e auxiliando assim na ampliação dos movimentos populares. AND têm obtido destaque nas coberturas jornalísticas das manifestações, da militarização de favelas e das remoções de bairros pobres no Rio de Janeiro. Não leia, não leia, jornais da burguesia. Leia o jornal A Nova Democracia.
 - [Justificando](https://www.youtube.com/channel/UClGI_T5ZXjHNBbpKrERbFHQ) - Canal mais à esquerda sobre justiça.
-- [ À Esquerda ] (https://www.youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg) - O à esquerda é um canal com informações, debates, e críticas à esquerda, à esquerda. O conteúdo dos vídeos e a maior parte da produção é todo feito por mim, Sabrina, que sou socióloga doutora, professora, militante ecossocialista e feminista.
+- [Tese Onze](https://www.youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg) - O Tese Onze é um canal focado em debater o senso comum, trazer pontos sobre sociologia e política, e acumular bagagem pra transformar o mundo.
+O conteúdo dos vídeos e a maior parte da produção é todo feito por mim, Sabrina, que sou socióloga doutora, professora, militante ecossocialista e feminista.
 
 
 ## Podcasts
@@ -163,6 +164,10 @@
 - [Mamilos Podcast](https://soundcloud.com/mamilospod) - As polêmicas da semana discutidas com inteligência, empatia, tolerância e bom humor.
 - [AntiCast Podcast](https://soundcloud.com/anticastdesign) - Podcast sobre política, história, artes e qualquer outra forma de subversão.
 - [Salvo Melhor Juízo Podcast](https://soundcloud.com/salvo-melhor-ju-zo) - O seu podcast sobre direito é aqui. Até que se prove o contrário.
+- [Revolushow](https://revolushow.com/) - Irreverência, socialismo e tudo que há de bom na esquerda.
+Estes foram os ingredientes escolhidos para criar um podcast esquerdaralho.
+Mas o professor Karl Marx, acidentalmente, acrescentou um ingrediente extra na mistura: O elemento que quer destruir a exploração do homem pelo homem!
+E assim nasceram os podcasters do Revolushow, usando seus ultra-super poderes, Zamiliano, João Carvalho, Larissa Coutinho e Poderoso Porco, têm dedicado suas vidas combatendo a falta de bom senso, e as forças do Capital!
 
 ## Outros
 
@@ -170,7 +175,7 @@
 - [Story of Stuff](http://storyofstuff.org) - "The Story of Stuff Project’s journey began with a [20-minute online movie](http://storyofstuff.org/movies/story-of-stuff/) about the way we make, use and throw away all the Stuff in our lives. Five years and 40 million views later, we’re a Community of more than a million changemakers worldwide, working to build a more healthy and just planet. We invite you to watch and share our movies, participate in our study programs and join our campaigns. Come on, let’s go!"
 - [Biblioteca Social Fábio Luz ~ Conhecimento liberta!](https://bibliotecasocialfabioluz.wordpress.com/) - Fundada em 18 de novembro de 2001 – data que lembra a Insurreição Anarquista do Rio de Janeiro, em 1918 – a Biblioteca Social Fábio Luz (BSFL) começou a formar seu acervo a partir da reunião de livros, revistas, periódicos e documentos remanescentes dos arquivos do CELIP (Círculo de Estudos Libertários Ideal Peres), ocupando, desde então, uma das salas do [Centro de Cultura Social do Rio de Janeiro](https://ccsrj.wordpress.com/) (CCS – RJ), no mesmo prédio que abrigou a centenária Associação Baiana de Beneficência, da qual o escritor, jornalista, médico e professor Fábio Luz foi sócio no início do século XX.
 - [DOC VERDADE](http://docverdade.blogspot.com.br/) - docverdade é onde você vai encontrar a grande maioria dos melhores documentários de esquerda.
-- [Resposta ao “Instituto Liberal” por Matheus Boni](http://www.trincheiras.com.br/2015/10/resposta-ao-instituto-liberal/) - Deu trabalho, mas respondi todas as 60 “perguntas desconcertantes” de um certo instituto liberaleco.
+- [Resposta ao “Instituto Liberal” por Matheus Boni](http://reflexoimperativo.blogspot.com.br/2015/12/resposta-ao-instituto-liberal-por.html) - Deu trabalho, mas respondi todas as 60 “perguntas desconcertantes” de um certo instituto liberaleco.
 	Tenho que dizer que estou decepcionado. Na maioria das vezes não são perguntas de verdade, são retóricas, com várias afirmações implícitas e falaciosas.
 	As “perguntas”, na verdade, não passavam de falácias, construídas sobre bonecos de palha e afirmações do consequente. O que fiz, na maior parte das vezes, foi desmontar a pergunta falaciosa, que por sua vez era uma resposta a um boneco de palha criado especialmente para os fins do apologista do capitalismo. 
 - [Laibach: genialidade, política e polêmica no rock](http://www.avioesemusicas.com/laibach-genialidade-politica-e-polemica-no-rock.html) - "Laibach, um dos grupos de rock mais originais, ousados, provocativos e polêmicos do mundo."
