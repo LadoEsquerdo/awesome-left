@@ -241,7 +241,8 @@ Essa emissora de TV dá voz aos movimentos sociais, está ao lado dos Direitos H
 	O conteúdo dos vídeos e a maior parte da produção é todo feito por mim, Sabrina, que sou socióloga doutora, professora, militante ecossocialista e feminista.
 
 	Vídeos semanais.
-- [thejuicemedia](https://www.youtube.com/channel/UCKRw8GAAtm27q4R3Q0kst_g) - "#GenuineSatire" We make Honest Government Ads & Rap News. You can keep us going on Patreon: http://www.patreon.com/thejuicemedia
+- [thejuicemedia](https://www.youtube.com/channel/UCKRw8GAAtm27q4R3Q0kst_g) - "#GenuineSatire" We make Honest Government Ads & Rap News. 
+	You can keep us going on Patreon: http://www.patreon.com/thejuicemedia
 - [TV 247](https://www.youtube.com/channel/UCRuy5PigeeBuecKnwqhM4yg) - Bem-vindo ao Brasil 247. Seu jornal digital progressista, democrático, 24 horas por dia 7 dias por semana.
 - [TV Boitempo](https://www.youtube.com/channel/UCzwfw0utuEVxc4D6ggXcqiQ) - Canal de vídeos da maior editora do pensamento crítico da língua portuguesa, com catálogo consistente reconhecido por sua qualidade e clareza de opções editoriais. Aqui você encontra conteúdos exclusivos dedicados a funcionar tanto como material de apoio ao estudo e à leitura quanto como forma de atualizar e estabelecer pontes entre temáticas de nossas publicações e questões e pautas da atualidade. Com ao menos dois novos vídeos por semana, o canal abriga uma grande variedade de formatos de vídeos, desde WebCursos e entrevistas, passando por drops e séries temáticas com nossos autores, até gravações de debates, palestras e eventos promovidos pela editora. Seja bem-vindo!
 - [Vozes da Igualdade - O canal da Anis](https://www.youtube.com/channel/UCLEnSx2zVwo3KPpCU5h64_w) - Aqui você encontra todos os vídeos do blog Vozes da Igualdade. Este é um parlatório sobre igualdades. No plural. Somos provocadas e pontuamos nossas vozes à espera de outras vozes. Quem fala é um mulherio amplo, várias cores, formas e idades.
