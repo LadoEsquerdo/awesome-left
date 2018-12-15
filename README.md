@@ -202,9 +202,13 @@
 
 ## Podcasts
 
+- [professores contra o escola sem partido](https://professorescontraoescolasempartido.wordpress.com/tag/podcast/) - Educadoras, educadores e estudantes contra a censura na educação.
 - [Mamilos Podcast](https://soundcloud.com/mamilospod) - As polêmicas da semana discutidas com inteligência, empatia, tolerância e bom humor.
 - [AntiCast Podcast](https://soundcloud.com/anticastdesign) - Podcast sobre política, história, artes e qualquer outra forma de subversão.
 - [Salvo Melhor Juízo Podcast](https://soundcloud.com/salvo-melhor-ju-zo) - O seu podcast sobre direito é aqui. Até que se prove o contrário.
+- [Viracasacas](https://viracasacas.com/) - O Viracasacas é um podcast de direito, atualidades, entretenimento, política, debate e tudo mais que der na telha. Nosso objetivo principal é sair da mesmice, da piadinha barata, do conteúdo óbvio. Em resumo: fazer algo para gente como nós.
+- [Poranduba](https://www.megafono.host/podcast/poranduba) - Poranduba é um podcast sobre as histórias fantásticas do folclore brasileiro. Produzido, apresentado e editado por Andriolli Costa, do site O Colecionador de Sacis, o programa busca estabelecer este diálogo entre os saberes tradicionais, culturas ancestrais,  
+mitos e lendas, com a cultura pop, a literatura, o cinema e o contemporâneo. Mostrando assim que folclore não está "lá", mas aqui. Que faz parte de nosso dia a dia, inspirando narrativas incríveis que podem tocar a todos nós.
 - [Revolushow](https://revolushow.com/) - Irreverência, socialismo e tudo que há de bom na esquerda.
 Estes foram os ingredientes escolhidos para criar um podcast esquerdaralho.
 Mas o professor Karl Marx, acidentalmente, acrescentou um ingrediente extra na mistura: O elemento que quer destruir a exploração do homem pelo homem!
