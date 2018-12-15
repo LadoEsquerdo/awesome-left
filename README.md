@@ -140,8 +140,8 @@
 
 <h2 id="canais-no-youtube">Canais no Youtube</h2>
 
-<DT><H3 ADD_DATE="1544871411" LAST_MODIFIED="1544873672">Canais de youtube</H3>
-        <DL><p>
+<DT>
+    <DL><p>
             <DT><A HREF="https://www.youtube.com/channel/UC_Q8iA1OhUOUHlIIocsaMJg" ADD_DATE="1544871454" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVQ4ja2TMU4DMRBF38wiEFIqKFYIUSAtJ8kNcoood8jJopwgRyANNCg1aSJl/Sls73rdoBC+NLI982c8/raNAgIHLC2NKZRHg1BHavKvyDlWOGbAG9ACT8RuSgTgCzgA7wbHstpC8Ck4CSSQzDTMp3ZK3EVOvhN8pGAvCILzYGbnYh0SRynn1oEX4JGpME7bOmaO5Lh7daQAPADPDtwnLSKhaaI2q5Wx2RhdZ4RgTIXOBWde7WyYRWLfw3wOux2s12PhaaFQK30xbqqzCSnu1DSw3cJyCfv9GI+Wu3AEneCY1M23ENS2QWZx7h4G/8j7FrxefY25rz8/pH97ytd/puS8+Dv/AFRGv3m23DwSAAAAAElFTkSuQmCC">A Nova Máquina do Tempo - YouTube</A>
             <DT><A HREF="https://www.youtube.com/channel/UCp82xap4vLMay1_dvt2QpkQ" ADD_DATE="1544871389" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVQ4ja2TMU4DMRBF38wiEFIqKFYIUSAtJ8kNcoood8jJopwgRyANNCg1aSJl/Sls73rdoBC+NLI982c8/raNAgIHLC2NKZRHg1BHavKvyDlWOGbAG9ACT8RuSgTgCzgA7wbHstpC8Ck4CSSQzDTMp3ZK3EVOvhN8pGAvCILzYGbnYh0SRynn1oEX4JGpME7bOmaO5Lh7daQAPADPDtwnLSKhaaI2q5Wx2RhdZ4RgTIXOBWde7WyYRWLfw3wOux2s12PhaaFQK30xbqqzCSnu1DSw3cJyCfv9GI+Wu3AEneCY1M23ENS2QWZx7h4G/8j7FrxefY25rz8/pH97ytd/puS8+Dv/AFRGv3m23DwSAAAAAElFTkSuQmCC">ADJUNIOR - YouTube</A>
             <DT><A HREF="https://www.youtube.com/user/amadafoca1" ADD_DATE="1544871506" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVQ4ja2TMU4DMRBF38wiEFIqKFYIUSAtJ8kNcoood8jJopwgRyANNCg1aSJl/Sls73rdoBC+NLI982c8/raNAgIHLC2NKZRHg1BHavKvyDlWOGbAG9ACT8RuSgTgCzgA7wbHstpC8Ck4CSSQzDTMp3ZK3EVOvhN8pGAvCILzYGbnYh0SRynn1oEX4JGpME7bOmaO5Lh7daQAPADPDtwnLSKhaaI2q5Wx2RhdZ4RgTIXOBWde7WyYRWLfw3wOux2s12PhaaFQK30xbqqzCSnu1DSw3cJyCfv9GI+Wu3AEneCY1M23ENS2QWZx7h4G/8j7FrxefY25rz8/pH97ytd/puS8+Dv/AFRGv3m23DwSAAAAAElFTkSuQmCC">Amada Foca - YouTube</A>
@@ -199,26 +199,6 @@
             <DT><A HREF="https://www.youtube.com/channel/UCzwfw0utuEVxc4D6ggXcqiQ" ADD_DATE="1544872704" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVQ4ja2TMU4DMRBF38wiEFIqKFYIUSAtJ8kNcoood8jJopwgRyANNCg1aSJl/Sls73rdoBC+NLI982c8/raNAgIHLC2NKZRHg1BHavKvyDlWOGbAG9ACT8RuSgTgCzgA7wbHstpC8Ck4CSSQzDTMp3ZK3EVOvhN8pGAvCILzYGbnYh0SRynn1oEX4JGpME7bOmaO5Lh7daQAPADPDtwnLSKhaaI2q5Wx2RhdZ4RgTIXOBWde7WyYRWLfw3wOux2s12PhaaFQK30xbqqzCSnu1DSw3cJyCfv9GI+Wu3AEneCY1M23ENS2QWZx7h4G/8j7FrxefY25rz8/pH97ytd/puS8+Dv/AFRGv3m23DwSAAAAAElFTkSuQmCC">TV Boitempo - YouTube</A>
             <DT><A HREF="https://www.youtube.com/channel/UCLEnSx2zVwo3KPpCU5h64_w" ADD_DATE="1544872483" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVQ4ja2TMU4DMRBF38wiEFIqKFYIUSAtJ8kNcoood8jJopwgRyANNCg1aSJl/Sls73rdoBC+NLI982c8/raNAgIHLC2NKZRHg1BHavKvyDlWOGbAG9ACT8RuSgTgCzgA7wbHstpC8Ck4CSSQzDTMp3ZK3EVOvhN8pGAvCILzYGbnYh0SRynn1oEX4JGpME7bOmaO5Lh7daQAPADPDtwnLSKhaaI2q5Wx2RhdZ4RgTIXOBWde7WyYRWLfw3wOux2s12PhaaFQK30xbqqzCSnu1DSw3cJyCfv9GI+Wu3AEneCY1M23ENS2QWZx7h4G/8j7FrxefY25rz8/pH97ytd/puS8+Dv/AFRGv3m23DwSAAAAAElFTkSuQmCC">Vozes da Igualdade - O canal da Anis - YouTube</A>
             <DT><A HREF="https://www.youtube.com/user/xadrezverbal/featured" ADD_DATE="1544873226" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVQ4ja2TMU4DMRBF38wiEFIqKFYIUSAtJ8kNcoood8jJopwgRyANNCg1aSJl/Sls73rdoBC+NLI982c8/raNAgIHLC2NKZRHg1BHavKvyDlWOGbAG9ACT8RuSgTgCzgA7wbHstpC8Ck4CSSQzDTMp3ZK3EVOvhN8pGAvCILzYGbnYh0SRynn1oEX4JGpME7bOmaO5Lh7daQAPADPDtwnLSKhaaI2q5Wx2RhdZ4RgTIXOBWde7WyYRWLfw3wOux2s12PhaaFQK30xbqqzCSnu1DSw3cJyCfv9GI+Wu3AEneCY1M23ENS2QWZx7h4G/8j7FrxefY25rz8/pH97ytd/puS8+Dv/AFRGv3m23DwSAAAAAElFTkSuQmCC">Xadrez Verbal - YouTube</A>
-
-
-- [Ana Roxo](https://www.youtube.com/channel/UC103EEyV8RzaJjH7BjhsP-w/videos?view=0&shelf_id=0&sort=dd) - Não é assumidamente um canal de esquerda, mas tem boas reflexões a respeito e com uma pitada de sarcasmo e bom humor.
-- [Auditoria Cidadã da Dívida](https://www.youtube.com/user/auditoriadidada/videos)
-- [Outras Palavras](https://www.youtube.com/channel/UCXQR-5Obb1uAQthcWP3ejFA/featured) - Comunicação compartilhada e Pós-capitalismo
-- [Xadrez Verbal](https://www.youtube.com/user/xadrezverbal/featured) - Não é um canal de esquerda. Canal com vídeos próprios sobre História, política, atualidades e política internacional. Também é site e podcast.
-- [TvPTS El canal de la izquierda](https://www.youtube.com/user/ptsargentina/featured) - TVPTS el canal de la izquierda. Una iniciativa del Partido de Trabajadores Socialistas. (Argentina)
-- [Noam Chomsky em Português](https://www.youtube.com/channel/UCweS7hhuA4cY2vrhwheXvNA) - O linguista anarcossindicalista [Noam Chomsky](https://pt.wikipedia.org/wiki/Noam_Chomsky) tem seus vídeos traduzidos nesse canal do youtube.
-- [Leandro Zayd](https://www.youtube.com/channel/UCx544r_nqRWLhNPWpKS5EIg) - Não é exatamente de esquerda, mas Leandro Zayd discute com bom humor e de forma clara diversas iniciativas que podemos tomar para remodelar nossa sociedade
-- [Mas afinal](https://www.youtube.com/channel/UCL6ygBKtuMoMlDp_4ikvKrg) - Um canal sobre ciência políticas
-- [Os Mortadelas](https://www.youtube.com/channel/UCuvPSYzWcImMf_KI3i_WcwQ) - Ótimo canal com vídeos que englobam principalmente o cenário político brasileiro
-- [Prof. André Azevedo da Fonseca](https://www.youtube.com/channel/UCKKJpBveT8vWVNfLQ-MvZMg) - O professor André discute diversos assuntos envolvendo Educação, Comunicação e Ciências Humanas. Atenção para a série sobre o MESTRE Paulo Freire.
-- [Saia da Matrix](https://www.youtube.com/channel/UC3qAUf53j_dUv09jH7jsUJw) - Canal de um socialista e professor de história.
-- [Vini Oliveira](https://www.youtube.com/channel/UC9g2V53hdHg7NZRKBrJsviA) - Vini faz parte da nova geração de cartunistas e é comunista. Conhecido também por sua posição anti-governista e anti pós modernos.
-- [FRANK JAAVA](https://www.youtube.com/user/adrianofacioli/featured) - Frank Jaava faz críticas ao senso comum no seu canal (atenção para o ótimo vídeo sobre o bolsa família).
-- [Jornal A Nova Democracia](https://www.youtube.com/channel/UC7G7saR0vFSMh-SdEyF3Utg) - A missão do AND é construir e emancipar a imprensa democrática e popular, estreitando o contato com as massas, divulgando suas demandas, suas lutas, os crimes do Estado contra o povo e auxiliando assim na ampliação dos movimentos populares. AND têm obtido destaque nas coberturas jornalísticas das manifestações, da militarização de favelas e das remoções de bairros pobres no Rio de Janeiro. Não leia, não leia, jornais da burguesia. Leia o jornal A Nova Democracia.
-- [Justificando](https://www.youtube.com/channel/UClGI_T5ZXjHNBbpKrERbFHQ) - Canal mais à esquerda sobre justiça.
-- [Tese Onze](https://www.youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg) - O Tese Onze é um canal focado em debater o senso comum, trazer pontos sobre sociologia e política, e acumular bagagem pra transformar o mundo.
-O conteúdo dos vídeos e a maior parte da produção é todo feito por mim, Sabrina, que sou socióloga doutora, professora, militante ecossocialista e feminista.
-
 
 ## Podcasts
 
