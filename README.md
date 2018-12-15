@@ -117,6 +117,7 @@
 - [Pride (2014)](http://www.imdb.com/title/tt3169706/) - U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.
 - [Trumbo (2015)](http://www.imdb.com/title/tt3203606/) - In 1947, [Dalton Trumbo](http://www.imdb.com/name/nm0874308/) was Hollywood's top screenwriter, until he and other artists were jailed and blacklisted for their political beliefs.
 - [Marx ha Vuelto](https://www.youtube.com/playlist?list=PLis8vVfUiOWSbgFmPXRr5WDwcLWTPiV1X) - Minissérie baseada no Manifesto Comunista.
+- [BlacKkKlansman (2018)](https://www.rottentomatoes.com/m/blackkklansman) - From visionary filmmaker Spike Lee comes the incredible true story of an American hero. It's the early 1970s, and Ron Stallworth (John David Washington) is the first African-American detective to serve in the Colorado Springs Police Department. Determined to make a name for himself, Stallworth bravely sets out on a dangerous mission: infiltrate and expose the Ku Klux Klan. The young detective soon recruits a more seasoned colleague, Flip Zimmerman (Adam Driver), into the undercover investigation of a lifetime. Together, they team up to take down the extremist hate group as the organization aims to sanitize its violent rhetoric to appeal to the mainstream. Produced by the team behind the Academy-Award (R) winning Get Out.
 
 <h2 id="canais-de-noticia">Canais de Notícia</h2>
 
@@ -177,7 +178,7 @@ Estudo em psicanálise na linha lacaniana.
 	Política, meio ambiente, drogas, cidade, cultura - vida real.
 
 	Um projeto de jornalismo independente dirigido por Bruno Torturra.
-- [https://www.youtube.com/channel/UCJPDpMTXumaoFp-JECi4ofQ](Explica Aí) - Toda semana um vídeo novo para falar de política, atualidades, tretas e mucho más.
+- [Explica Aí](https://www.youtube.com/channel/UCJPDpMTXumaoFp-JECi4ofQ) - Toda semana um vídeo novo para falar de política, atualidades, tretas e mucho más.
 - [Filósofo Paulo Ghiraldelli](https://www.youtube.com/channel/UCBMKrkHv07GoYb5ITLt0sYQ) - 
 - [FRANK JAAVA](https://www.youtube.com/user/adrianofacioli) - 
 - [Henry Bugalho](https://www.youtube.com/user/henrybugalho) - CANAL DO HENRY BUGALHO - VLOG DO ESCRITOR
